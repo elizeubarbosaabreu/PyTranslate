@@ -28,7 +28,7 @@ Em seguida crie um ambiente virtual para instalar as dependências:
 
 cd PyTranslate
 python3 -m venv .venv
-source ./.venv/bin/activate
+source .venv/bin/activate
 
 ~~~
 
@@ -38,7 +38,7 @@ Se estiver no Windows talvez os comandos sejam esses:
 
 cd PyTranslate
 python -m venv .venv
-source .\.venv\Scripts\activate.bat
+source .venv\Scripts\activate.bat
 
 ~~~
 
